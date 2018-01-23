@@ -4,3 +4,4 @@ function mod() {
     postMessage(i);
   },1000)
 }
+mod();
